@@ -31,10 +31,12 @@ I specialize in creating **intelligent chatbots, n8n workflows, and optimized we
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🌐 CMS & Platforms
 ![WordPress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Moodle](https://img.shields.io/badge/moodle-F7931E?style=for-the-badge&logo=moodle&logoColor=white)
+![Shopify](https://img.shields.io/badge/shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
 
 ### 🤖 AI
 ![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge)
