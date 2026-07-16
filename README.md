@@ -1,16 +1,16 @@
 # 🚀 Sebastián Camargo  
-### 👨‍💻 Automation & AI Developer  
+### 👨‍💻 Automation, AI & Cybersecurity Developer  
 
-I am a developer focused on **automation, artificial intelligence, and modern web development**.  
-I specialize in creating **intelligent chatbots, n8n workflows, and optimized web experiences**.
+I am a developer focused on **automation, artificial intelligence, modern web development, and security auditing**.  
+I specialize in creating **intelligent chatbots, n8n workflows, and auditing web applications and networks to guarantee secure development practices**.
 
 ---
 
 ## 📍 Information
 
 - 🌎 **Location:** Colombia  
-- 💼 **Focus:** AI + Automation  
-- ⚡ **Goal:** Building scalable solutions  
+- 💼 **Focus:** AI + Automation + Security  
+- ⚡ **Goal:** Building scalable and secure solutions  
 
 ---
 
@@ -33,6 +33,14 @@ I specialize in creating **intelligent chatbots, n8n workflows, and optimized we
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🛡️ Cybersecurity & Pentesting
+![Nmap](https://img.shields.io/badge/Nmap-8cc8ff?style=for-the-badge&logo=nmap&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-37474F?style=for-the-badge&logo=owasp&logoColor=white)
+![Port Scanning](https://img.shields.io/badge/Port_Scanning-red?style=for-the-badge)
+![Vulnerability Analysis](https://img.shields.io/badge/Vulnerability_Analysis-orange?style=for-the-badge)
 
 ### 🌐 CMS & Platforms
 ![WordPress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -61,4 +69,4 @@ I specialize in creating **intelligent chatbots, n8n workflows, and optimized we
 
 ## ⚡ Quote
 
-> Automate the repetitive, focus on what matters 🚀
+> Automate the repetitive, secure the essential, focus on what matters 🚀
