@@ -11,6 +11,7 @@ I specialize in creating **intelligent chatbots, n8n workflows, and auditing web
 - 🌎 **Location:** Colombia  
 - 💼 **Focus:** AI + Automation + Security  
 - ⚡ **Goal:** Building scalable and secure solutions  
+- 🌐 **Portfolio:** [portafolio-sebastian-camargo.vercel.app](https://portafolio-sebastian-camargo.vercel.app)  
 
 ---
 
@@ -62,6 +63,8 @@ I specialize in creating **intelligent chatbots, n8n workflows, and auditing web
 
 ## 📫 Contact
 
+- 🌐 **Portfolio:** [portafolio-sebastian-camargo.vercel.app](https://portafolio-sebastian-camargo.vercel.app)  
+- 💼 **LinkedIn:** [linkedin.com/in/sebastián-camargo](https://www.linkedin.com/in/sebasti%C3%A1n-camargo/)  
 - 💼 **GitHub:** [https://github.com/Sebastian-Camargo](https://github.com/Sebastian-Camargo)  
 - 📧 **Email:** [sebastianjcm0528@gmail.com](mailto:sebastianjcm0528@gmail.com)  
 
