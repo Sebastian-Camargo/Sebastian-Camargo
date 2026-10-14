@@ -161,7 +161,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sebastian-Camargo&theme=dark&hide_border=true&background=0f0f0f&ring=00de51&fire=f87171&currStreakLabel=00de51&sideLabels=888888)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sebastian-Camargo&theme=dark&hide_border=true&background=0f0f0f&ring=00de51&fire=f87171&currStreakLabel=00de51&sideLabels=888888)](https://streak-stats.demolab.com)
 
 </div>
 
