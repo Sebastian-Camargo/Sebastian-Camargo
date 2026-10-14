@@ -175,15 +175,6 @@
 
 </div>
 
----
-
-## 🌐 3D Contribution Profile
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sebastian-Camargo/Sebastian-Camargo/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Profile" width="100%"/>
-
-</div>
 
 ---
 
